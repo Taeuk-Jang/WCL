@@ -1,1 +1,0 @@
-[2022-08-09 01:15:33,205]  ['linear.py', '--dataset_name', 'imagenet', '--model_path', 'results_from_s1/imagenet_hard_model_256_0.01_1.0_500.pth', '--epochs', '150']

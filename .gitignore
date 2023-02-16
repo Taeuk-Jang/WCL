@@ -1,6 +1,10 @@
 figs
+figures
 results
 data
-image/tiny-im
+tiny-im
 *.zip
 *.wandb
+image
+result*
+
