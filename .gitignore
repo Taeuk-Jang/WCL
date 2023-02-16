@@ -1,0 +1,6 @@
+figs
+results
+data
+image/tiny-im
+*.zip
+*.wandb
