@@ -1,4 +1,4 @@
-This is repository for NeurIPS 2022 Submission of Difficulty based contrastive learning.
+## This is repository for NeurIPS 2022 Submission of Difficulty based contrastive learning.
 
 The code is based on SIMCLR (fundamental contrastive learning paper).
 https://github.com/sthalles/SimCLR.git
@@ -33,3 +33,13 @@ utils.py      : This includes dataloaders for all dataset that is used for exper
 
 
 
+## Citation
+```
+@inproceedings{jang2023difficulty,
+  title={Difficulty-Based Sampling for Debiased Contrastive Representation Learning},
+  author={Jang, Taeuk and Wang, Xiaoqian},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={24039--24048},
+  year={2023}
+}
+```
